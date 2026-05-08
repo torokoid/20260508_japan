@@ -186,6 +186,9 @@ p.note { display: none; }
 <h2><span class="yellow">最終的な依頼内容はアカウントのまた貸しですが、完全に禁止行為</span></h2>
 <a href="20260508_008.png" target="_blank"><img src="20260508_008.png" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">放置してたら会話の継続を狙ってきましたが、最後はこの挨拶で会話終了<br>背中に銃突きつけられながらキーボード叩いてないといいですけどね〜</span></h2>
+<a href="20260508_009.png" target="_blank"><img src="20260508_009.png" alt="サンプル画像" class="responsive-media"></a>
+
 <!--
 <h2><span class="yellow">今回の撮影範囲は、おおむね赤枠のエリア</span></h2>
 <a href="20260228_059.PNG" target="_blank"><img src="20260228_059.PNG" alt="サンプル画像" class="responsive-media"></a>
